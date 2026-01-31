@@ -1,5 +1,5 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
+### DATE: 31.01.2026
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -27,4 +27,10 @@
 
 ### Output:
 
+<img width="1920" height="1200" alt="Screenshot 2026-01-31 133457" src="https://github.com/user-attachments/assets/17733fc4-6bb9-4c7d-b0ab-793f0cc10260" />
+
+<img width="1920" height="1200" alt="Screenshot 2026-01-31 133543" src="https://github.com/user-attachments/assets/2adb86ad-81ce-4332-b07c-f01472504ea1" />
+
 ### Result:
+
+Thus, the project for Sentimental Analysis on Any Dataset (IMDb Movie Reviews) Using Rapidminer is created and executed sucessfully.
